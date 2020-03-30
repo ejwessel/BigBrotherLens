@@ -3,7 +3,7 @@
     "document_id": "kqqYypgktS_BAPMqHUmE",
     "original_document_id": "kqqYypgktS_BAPMqHUmE",
     "version": "23",
-    "lastChanged": "1585274872126",
+    "lastChanged": "1585529954208",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -41,140 +41,6 @@
                     [
                         "camera_model",
                         "Animations"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat0"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat1"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat10"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat11"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat12"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat13"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat14"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat15"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat16"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat17"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat18"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat19"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat2"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat20"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat21"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat22"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat23"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat24"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat25"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat3"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat4"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat5"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat6"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat7"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat8"
-                    ],
-                    [
-                        "camera_model",
-                        "Materials",
-                        "mat9"
                     ],
                     [
                         "camera_model",
@@ -1235,123 +1101,123 @@
                         "v": "echopark_spec.png"
                     },
                     {
-                        "k": "17",
+                        "k": "3",
                         "v": "camera_model.obj"
                     },
                     {
+                        "k": "4",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0"
+                    },
+                    {
+                        "k": "5",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat0.lsmat"
+                    },
+                    {
+                        "k": "6",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat1.lsmat"
+                    },
+                    {
+                        "k": "7",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat2.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat3.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat4.lsmat"
+                    },
+                    {
+                        "k": "10",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat5.lsmat"
+                    },
+                    {
+                        "k": "11",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat6.lsmat"
+                    },
+                    {
+                        "k": "12",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat7.lsmat"
+                    },
+                    {
+                        "k": "13",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat8.lsmat"
+                    },
+                    {
+                        "k": "14",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat9.lsmat"
+                    },
+                    {
+                        "k": "15",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat10.lsmat"
+                    },
+                    {
+                        "k": "16",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat11.lsmat"
+                    },
+                    {
+                        "k": "17",
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat12.lsmat"
+                    },
+                    {
                         "k": "18",
-                        "v": "..\/AdditionalFiles\/model\/Materials"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat13.lsmat"
                     },
                     {
                         "k": "19",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat0.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat14.lsmat"
                     },
                     {
                         "k": "20",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat1.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat15.lsmat"
                     },
                     {
                         "k": "21",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat2.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat16.lsmat"
                     },
                     {
                         "k": "22",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat3.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat17.lsmat"
                     },
                     {
                         "k": "23",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat4.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat18.lsmat"
                     },
                     {
                         "k": "24",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat5.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat19.lsmat"
                     },
                     {
                         "k": "25",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat6.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat20.lsmat"
                     },
                     {
                         "k": "26",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat7.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat21.lsmat"
                     },
                     {
                         "k": "27",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat8.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat22.lsmat"
                     },
                     {
                         "k": "28",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat9.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat23.lsmat"
                     },
                     {
                         "k": "29",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat10.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat24.lsmat"
                     },
                     {
                         "k": "30",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat11.lsmat"
+                        "v": "..\/AdditionalFiles\/camera_model\/Materials0\/mat25.lsmat"
                     },
                     {
                         "k": "31",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat12.lsmat"
-                    },
-                    {
-                        "k": "32",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat13.lsmat"
-                    },
-                    {
-                        "k": "33",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat14.lsmat"
-                    },
-                    {
-                        "k": "34",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat15.lsmat"
-                    },
-                    {
-                        "k": "35",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat16.lsmat"
-                    },
-                    {
-                        "k": "36",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat17.lsmat"
-                    },
-                    {
-                        "k": "37",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat18.lsmat"
-                    },
-                    {
-                        "k": "38",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat19.lsmat"
-                    },
-                    {
-                        "k": "39",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat20.lsmat"
-                    },
-                    {
-                        "k": "40",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat21.lsmat"
-                    },
-                    {
-                        "k": "41",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat22.lsmat"
-                    },
-                    {
-                        "k": "42",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat23.lsmat"
-                    },
-                    {
-                        "k": "43",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat24.lsmat"
-                    },
-                    {
-                        "k": "44",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat25.lsmat"
-                    },
-                    {
-                        "k": "45",
                         "v": "1984_Cover.png"
                     },
                     {
-                        "k": "46",
+                        "k": "32",
                         "v": "Credit Alpha.js"
                     }
                 ],
@@ -1365,179 +1231,167 @@
                         "v": "8e599835d0d45c5879eafb1f474469cd"
                     },
                     {
-                        "k": "13",
-                        "v": "8a76c33904c3beb4cd81c15865cae65c"
-                    },
-                    {
-                        "k": "15",
-                        "v": "99487ca7c62df2a632a4fd56965de686"
-                    },
-                    {
-                        "k": "16",
-                        "v": "1606d23bf11e71c40cbd2b0049928143"
-                    },
-                    {
-                        "k": "17",
+                        "k": "3",
                         "v": "21582ebcd415455cd895b57cd7b468f1"
                     },
                     {
+                        "k": "5",
+                        "v": "3b485f2dad7c2bc072ec65787f4dd9d5"
+                    },
+                    {
+                        "k": "6",
+                        "v": "6f1afb5bdc9a8cc32ad47095c36fad37"
+                    },
+                    {
+                        "k": "7",
+                        "v": "d6a466844741574c6ae459a0cd1ac46c"
+                    },
+                    {
+                        "k": "8",
+                        "v": "ce7a9292a71d44885e4d88f63667c3e8"
+                    },
+                    {
+                        "k": "9",
+                        "v": "de105129104ff29655e137a12e0bf27c"
+                    },
+                    {
+                        "k": "10",
+                        "v": "2f1af6108120096037c7f15c39894119"
+                    },
+                    {
+                        "k": "11",
+                        "v": "ae4738aca47417ffb4cbcece74bcd1b7"
+                    },
+                    {
+                        "k": "12",
+                        "v": "887f7af1af30769d2c96021a5dfb5308"
+                    },
+                    {
+                        "k": "13",
+                        "v": "314547d658afbb04b12302683a1e2d22"
+                    },
+                    {
+                        "k": "14",
+                        "v": "d66a0ff29d561d1d8ad39a317c8d5999"
+                    },
+                    {
+                        "k": "15",
+                        "v": "d96b8f1e9ec7a4b1a7bf9ddb6ed98967"
+                    },
+                    {
+                        "k": "16",
+                        "v": "6ac235a3e2d8b8bdb91562f77b1db991"
+                    },
+                    {
+                        "k": "17",
+                        "v": "6c6be29aed430dda0e827e1b861bb4e7"
+                    },
+                    {
+                        "k": "18",
+                        "v": "2fd53dcc388de8caf03c99e363928408"
+                    },
+                    {
                         "k": "19",
-                        "v": "9cab9f78f483d76b23ff9b085ec4f853"
+                        "v": "6fdd075718015eaaf0c83b27251c024a"
                     },
                     {
                         "k": "20",
-                        "v": "59f53f7dcdde9c795fd31e47feb9fddb"
+                        "v": "b2f33163dfb7855b1b0409bba5a82526"
                     },
                     {
                         "k": "21",
-                        "v": "d031aa506232824d011669f605bd5312"
+                        "v": "24f1253cfdfdc76c15010f723e4db8f2"
                     },
                     {
                         "k": "22",
-                        "v": "48856196a7dfdab629673b06bd6276ca"
+                        "v": "8673eb7d88a391dc89a462f139463329"
                     },
                     {
                         "k": "23",
-                        "v": "2576296754275a57e7c694f5406f9950"
+                        "v": "aa671ee15b3ce1e9b6ebbfc835928894"
                     },
                     {
                         "k": "24",
-                        "v": "bcc013f9503f5c2c41830ed67b8e14ff"
+                        "v": "a177d47453e60930530bb97418e9c02a"
                     },
                     {
                         "k": "25",
-                        "v": "1f4db3b44722eb7b2d67a94f0d339e6a"
+                        "v": "23a1ea27013d685eacf67273cc75fee6"
                     },
                     {
                         "k": "26",
-                        "v": "e76160525335fbccb262a1232c3c66ae"
+                        "v": "2bddfb7b770e33a9c62265acbc216e7b"
                     },
                     {
                         "k": "27",
-                        "v": "fd860bd283d35c5acb1de53e60f39363"
+                        "v": "2b04c05eed701c9f5d25abc0c9c716c6"
                     },
                     {
                         "k": "28",
-                        "v": "6ad4c11fa5951974bb82126641f884a5"
+                        "v": "05cce696c08df80759087e2aa006ea6e"
                     },
                     {
                         "k": "29",
-                        "v": "1fa14465bf827a42c2ff86710060354c"
+                        "v": "13fb8d17259d3e96766cd010fcf07166"
                     },
                     {
                         "k": "30",
-                        "v": "58928349b21be85513a157cef3361e5b"
+                        "v": "1a23673de31e1f591ae0b447659112a5"
                     },
                     {
                         "k": "31",
-                        "v": "08031c804acb58af8f072787cd49b89e"
-                    },
-                    {
-                        "k": "32",
-                        "v": "e65e7a21bb698dbfed55692df1485f27"
-                    },
-                    {
-                        "k": "33",
-                        "v": "644c1ee1c4f0e64ee0619b396e01876f"
-                    },
-                    {
-                        "k": "34",
-                        "v": "61657114079356830704fc17bb7303b9"
-                    },
-                    {
-                        "k": "35",
-                        "v": "454ee09913ce34701a051f1ba45a9f08"
-                    },
-                    {
-                        "k": "36",
-                        "v": "7d82359fdffb210c2199f52af3d7f5fd"
-                    },
-                    {
-                        "k": "37",
-                        "v": "07309230b59c03847ca1ced26f4a45cd"
-                    },
-                    {
-                        "k": "38",
-                        "v": "980b27c26ef2ce15578a9c8521ac8f27"
-                    },
-                    {
-                        "k": "39",
-                        "v": "dd5b1206dab0ca99b7b80889096f2880"
-                    },
-                    {
-                        "k": "40",
-                        "v": "bd19420f751657dbff30b309523ea42e"
-                    },
-                    {
-                        "k": "41",
-                        "v": "2107e08b9d8ced8d95d568691ad4cb84"
-                    },
-                    {
-                        "k": "42",
-                        "v": "d655d8c0de7cbc4a808e48f23c5d06eb"
-                    },
-                    {
-                        "k": "43",
-                        "v": "07e683e31e4754368619b8502a8e1c8e"
-                    },
-                    {
-                        "k": "44",
-                        "v": "9f632a102b6a28188ea1adf9c809ca9e"
-                    },
-                    {
-                        "k": "45",
                         "v": "c1caa3b6fc009232da2f60f38048ee4c"
                     },
                     {
-                        "k": "46",
-                        "v": "9ac614f818a303c7a121a409aa3cc579"
+                        "k": "32",
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-26T22:04:40",
+                        "lastModified": "2020-03-29T20:58:56",
                         "name": "Public",
                         "hash": "a68e90084b0592503476306c1357a4ff",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:52",
+                                "lastModified": "2020-03-29T20:58:54",
                                 "name": "echopark_diff.png",
                                 "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:52",
+                                "lastModified": "2020-03-29T20:58:54",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2018-05-16T18:48:04",
+                                "lastModified": "2020-03-29T20:58:55",
                                 "name": "camera_model.obj",
                                 "hash": "21582ebcd415455cd895b57cd7b468f1",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-26T21:53:16",
+                                "lastModified": "2020-03-29T20:58:55",
                                 "name": "1984_Cover.png",
                                 "hash": "c1caa3b6fc009232da2f60f38048ee4c",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-26T22:04:40",
+                                "lastModified": "2020-03-29T20:58:55",
                                 "name": "Credit Alpha.js",
                                 "hash": "9ac614f818a303c7a121a409aa3cc579",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:47",
+                                "lastModified": "2020-03-29T20:58:56",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1621,7 +1475,7 @@
                         "uid": "-1:-1",
                         "fileId": "86",
                         "originalId": "18446744073709551615",
-                        "publicId": "17",
+                        "publicId": "3",
                         "source": "\/Users\/ejwessel\/Downloads\/Camera\/model.obj",
                         "additional": {
                             "materialMapping": [
@@ -2035,7 +1889,7 @@
                                 "resources": ""
                             },
                             {
-                                "name": "Materials",
+                                "name": "Materials0",
                                 "type": "0",
                                 "subtype": "-1",
                                 "resourceId": "-1",
@@ -2043,7 +1897,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "18",
+                                "publicId": "4",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -2056,7 +1910,7 @@
                                         "uid": "1585272736675378:9681",
                                         "fileId": "33",
                                         "originalId": "34",
-                                        "publicId": "19",
+                                        "publicId": "5",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2069,7 +1923,7 @@
                                         "uid": "1585272737142591:9696",
                                         "fileId": "35",
                                         "originalId": "36",
-                                        "publicId": "20",
+                                        "publicId": "6",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2082,7 +1936,7 @@
                                         "uid": "1585272737366064:9711",
                                         "fileId": "37",
                                         "originalId": "38",
-                                        "publicId": "21",
+                                        "publicId": "7",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2095,7 +1949,7 @@
                                         "uid": "1585272737718024:9726",
                                         "fileId": "39",
                                         "originalId": "40",
-                                        "publicId": "22",
+                                        "publicId": "8",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2108,7 +1962,7 @@
                                         "uid": "1585272738017400:9741",
                                         "fileId": "41",
                                         "originalId": "42",
-                                        "publicId": "23",
+                                        "publicId": "9",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2121,7 +1975,7 @@
                                         "uid": "1585272738300361:9756",
                                         "fileId": "43",
                                         "originalId": "44",
-                                        "publicId": "24",
+                                        "publicId": "10",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2134,7 +1988,7 @@
                                         "uid": "1585272738546756:9771",
                                         "fileId": "45",
                                         "originalId": "46",
-                                        "publicId": "25",
+                                        "publicId": "11",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2147,7 +2001,7 @@
                                         "uid": "1585272738968129:9786",
                                         "fileId": "47",
                                         "originalId": "48",
-                                        "publicId": "26",
+                                        "publicId": "12",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2160,7 +2014,7 @@
                                         "uid": "1585272739176446:9801",
                                         "fileId": "49",
                                         "originalId": "50",
-                                        "publicId": "27",
+                                        "publicId": "13",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2173,7 +2027,7 @@
                                         "uid": "1585272739676276:9816",
                                         "fileId": "51",
                                         "originalId": "52",
-                                        "publicId": "28",
+                                        "publicId": "14",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2186,7 +2040,7 @@
                                         "uid": "1585272739803445:9831",
                                         "fileId": "53",
                                         "originalId": "54",
-                                        "publicId": "29",
+                                        "publicId": "15",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2199,7 +2053,7 @@
                                         "uid": "1585272740145349:9846",
                                         "fileId": "55",
                                         "originalId": "56",
-                                        "publicId": "30",
+                                        "publicId": "16",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2212,7 +2066,7 @@
                                         "uid": "1585272740313503:9861",
                                         "fileId": "57",
                                         "originalId": "58",
-                                        "publicId": "31",
+                                        "publicId": "17",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2225,7 +2079,7 @@
                                         "uid": "1585272740656361:9876",
                                         "fileId": "59",
                                         "originalId": "60",
-                                        "publicId": "32",
+                                        "publicId": "18",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2238,7 +2092,7 @@
                                         "uid": "1585272740925727:9891",
                                         "fileId": "61",
                                         "originalId": "62",
-                                        "publicId": "33",
+                                        "publicId": "19",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2251,7 +2105,7 @@
                                         "uid": "1585272741265716:9906",
                                         "fileId": "63",
                                         "originalId": "64",
-                                        "publicId": "34",
+                                        "publicId": "20",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2264,7 +2118,7 @@
                                         "uid": "1585272741687740:9921",
                                         "fileId": "65",
                                         "originalId": "66",
-                                        "publicId": "35",
+                                        "publicId": "21",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2277,7 +2131,7 @@
                                         "uid": "1585272741817647:9936",
                                         "fileId": "67",
                                         "originalId": "68",
-                                        "publicId": "36",
+                                        "publicId": "22",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2290,7 +2144,7 @@
                                         "uid": "1585272742052983:9951",
                                         "fileId": "69",
                                         "originalId": "70",
-                                        "publicId": "37",
+                                        "publicId": "23",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2303,7 +2157,7 @@
                                         "uid": "1585272742459571:9966",
                                         "fileId": "71",
                                         "originalId": "72",
-                                        "publicId": "38",
+                                        "publicId": "24",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2316,7 +2170,7 @@
                                         "uid": "1585272742811634:9981",
                                         "fileId": "73",
                                         "originalId": "74",
-                                        "publicId": "39",
+                                        "publicId": "25",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2329,7 +2183,7 @@
                                         "uid": "1585272743031616:9996",
                                         "fileId": "75",
                                         "originalId": "76",
-                                        "publicId": "40",
+                                        "publicId": "26",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2342,7 +2196,7 @@
                                         "uid": "1585272743212940:10011",
                                         "fileId": "77",
                                         "originalId": "78",
-                                        "publicId": "41",
+                                        "publicId": "27",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2355,7 +2209,7 @@
                                         "uid": "1585272743625032:10026",
                                         "fileId": "79",
                                         "originalId": "80",
-                                        "publicId": "42",
+                                        "publicId": "28",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2368,7 +2222,7 @@
                                         "uid": "1585272744054857:10041",
                                         "fileId": "81",
                                         "originalId": "82",
-                                        "publicId": "43",
+                                        "publicId": "29",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -2381,7 +2235,7 @@
                                         "uid": "1585272744321226:10056",
                                         "fileId": "83",
                                         "originalId": "84",
-                                        "publicId": "44",
+                                        "publicId": "30",
                                         "source": "",
                                         "additional": ""
                                     }
@@ -2411,7 +2265,7 @@
                         "uid": "1585274010809233:28104",
                         "fileId": "88",
                         "originalId": "89",
-                        "publicId": "45",
+                        "publicId": "31",
                         "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-03-26 at 21.53.10.png",
                         "additional": ""
                     },
@@ -2424,7 +2278,7 @@
                         "uid": "1585274351259596:31606",
                         "fileId": "90",
                         "originalId": "18446744073709551615",
-                        "publicId": "46",
+                        "publicId": "32",
                         "source": "\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-AqqYnP\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     }
@@ -2433,8 +2287,13 @@
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1585274398875342:35019"
+                "resources": [
+                    {
+                        "uid": "1585274351259596:31606",
+                        "path_list": [
+                            "Credit Alpha"
+                        ]
+                    }
                 ]
             }
         },

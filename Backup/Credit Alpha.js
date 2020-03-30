@@ -1,19 +1,6 @@
 // -----JS CODE-----
 // @input Component.Text textObj
 
-var textColor = script.textObj.textFill.color
-var dropShadowColor = script.textObj.dropshadowSettings.fill.color
-
-
-// Hide text if recording
-if (global.scene.isRecording()) {
-    // Hide text
-    textColor.w = 0
-    dropShadowColor.w = 0
-    script.textObj.textFill.color = textColor
-    script.textObj.dropshadowSettings.fill.color = dropShadowColor
-}
-
 var currentTime = getTime()
 
 //show credit for 3 seconds, then phase out
@@ -25,8 +12,11 @@ if (currentTime <= 3) {
 currentTime /= 100
 
 //phase out text
+var textColor = script.textObj.textFill.color
 textColor.w -= currentTime
+
 //phase out dropshadow
+var dropShadowColor = script.textObj.dropshadowSettings.fill.color
 dropShadowColor.w -= currentTime
 
 script.textObj.textFill.color = textColor
